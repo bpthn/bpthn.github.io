@@ -4147,3 +4147,9 @@ form.example::after {
     letter-spacing: 0;
     font-family: 'Mitr', sans-serif;
 }
+
+/*explore*/
+
+.explore {
+	background-color: white;
+}
